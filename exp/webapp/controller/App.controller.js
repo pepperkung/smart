@@ -9,7 +9,7 @@ sap.ui.define([
 
 		return Controller.extend("exp.controller.App", {
 			onInit: function () {
-
+    
 			}
 		});
 	});
